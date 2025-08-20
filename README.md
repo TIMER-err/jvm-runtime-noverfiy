@@ -22,6 +22,8 @@ Then the Bytecode Verification should be disabled.
 
 ## Compatibility
 
+This method has been successfully tested and confirmed to work on JDK versions ranging from 8 to 21.
+
 The current implementation is primarily targeted for the Windows operating system. However, the underlying logic is not complex and can be ported to other operating systems (such as Linux or macOS) with minor modifications.
 
 ## Acknowledgments
