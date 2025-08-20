@@ -10,7 +10,7 @@ $ gcc -s -shared -o disabler.dll disabler.c
 
 ## Usage
 
-To utilize this library, load the compiled native library within your Java application wherever you want.
+To utilize this library, load the compiled native library wherever you want.
 
 ```java
 static {
